@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(cute -cl | tr -d " \n")
