@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d* *_ _ | cut _d * *_f L
+paste -d* *_ _ | cut _d * * -f L
