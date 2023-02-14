@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cute -cl | tr -d " \n")
+Cut c 1 | paste -s -d ''
