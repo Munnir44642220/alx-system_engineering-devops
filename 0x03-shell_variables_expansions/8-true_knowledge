@@ -1,2 +1,2 @@
-i#!/bin/bash
-echo $(($TRUEKNOWLEDGE123))
+#!/bin/bash
+echo $(($TRUEKNOWLEDGE128))
